@@ -1,0 +1,24 @@
+{
+  "name": "scraping_node_cheerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaykorat16/scraping_node_cheerio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaykorat16/scraping_node_cheerio/issues"
+  },
+  "homepage": "https://github.com/ajaykorat16/scraping_node_cheerio#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
